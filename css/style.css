@@ -243,6 +243,11 @@ h6 {
   float: left;
 }
 
+.nav-menu i{
+  font-size: 20px;
+  margin-left: 5px;
+  color: white;
+}
 .nav-menu li:hover > ul,
 .nav-menu li.sfHover > ul {
   display: block;
